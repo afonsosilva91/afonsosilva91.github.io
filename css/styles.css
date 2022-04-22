@@ -18,4 +18,13 @@ body {
     font-family: 'Courier', sans-serif;
     font-size: 0.85em;
     font-weight: normal;
+    color: #fff;
+}
+
+.email a {
+    color: #fff;
+}
+
+.email a:hover {
+    text-decoration: underline;
 }
